@@ -42,7 +42,7 @@ namespace Vectores1
             Console.WriteLine("La sumatoria es {0}", suma);
             Console.WriteLine("El promedio es {0}", suma / x.Length);
             ///////
-
+            ////////
         }
     }
 }
